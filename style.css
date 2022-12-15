@@ -1,0 +1,30 @@
+
+.popup{
+    background-color: blue;
+    width: 420px;
+    padding: 30px 40px;
+    border-radius: 10px;
+    position: absolute;
+	top: 25%;
+	left: 25%;
+}
+
+.popup > p{
+    font-size: 38px;
+    text-align: center;
+    color:yellow;
+}
+
+.popup > #button{
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 125px;
+    font-size: 18px;
+    line-height: 30px;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
